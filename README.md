@@ -37,16 +37,6 @@ This project aims to:
 
 ---
 
-## 📂 Repository Structure
-
-
-E-commerce-Funnel-Optimization-/
-│
-├── notebooks/           # Jupyter Notebooks for analysis
-├── sql_queries/         # SQL scripts for cohort extraction
-├── reports/             # Visualizations and analysis outputs
-├── README.md            # Project documentations
-
 
 
 
