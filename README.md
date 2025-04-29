@@ -42,40 +42,13 @@ This project aims to:
 
 E-commerce-Funnel-Optimization-/
 │
-├── data/                # Sample datasets
 ├── notebooks/           # Jupyter Notebooks for analysis
 ├── sql_queries/         # SQL scripts for cohort extraction
 ├── reports/             # Visualizations and analysis outputs
-├── README.md            # Project documentation
-└── requirements.txt     # Required Python packages
+├── README.md            # Project documentations
 
 
 
-# 🚀 How to Run the Project
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/sridharamesh/E-commerce-Funnel-Optimization-.git
-   ```
-
-2. **Navigate into the project**
-   ```bash
-   cd E-commerce-Funnel-Optimization-
-   ```
-
-3. **Install Required Packages**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Launch Jupyter Notebook**
-   ```bash
-   jupyter notebook
-   ```
-
-5. **Open the notebooks inside `/notebooks/` folder** to start exploring the analysis.
-
----
 
 ## 📬 Contact
 
